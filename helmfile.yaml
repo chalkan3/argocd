@@ -3,3 +3,7 @@ releases:
     chart: busybox
     namespace: busybox
     createNamespace: true
+  - name: mybusybox2
+    chart: busybox
+    namespace: busybox2
+    createNamespace: true
