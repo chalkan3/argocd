@@ -1,0 +1,3 @@
+repositories:
+  - name: traefik
+    url: https://helm.traefik.io/traefik
